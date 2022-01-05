@@ -58,7 +58,7 @@ void solve(l n){
         }
     }
     if(n > 1) s.insert(n);
-    cout << d << ": " << s.size() << endl;
+    cout << d << " : " << s.size() << endl;
 }
 
 int main()
